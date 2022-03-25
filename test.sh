@@ -1,0 +1,3 @@
+python3 client_wordCount.py
+python3 client_invertedIndex.py
+python3 clients_multiple.py
